@@ -6,9 +6,9 @@ The project consists of realizing a client for chat through the console interfac
 
 # Built with
 
-- NetBeans IDE 8.2 
-- JDK 8.2 
-- Smack 3.1.0
+- NetBeans IDE 8.2 https://netbeans.org/downloads/8.2/
+- JDK 8.2 https://www.oracle.com/technetwork/es/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
+- Smack 3.1.0 http://www.java2s.com/Code/Jar/s/Downloadsmack310sourcesjar.htm
 
 # Features
 
@@ -23,13 +23,10 @@ The project consists of realizing a client for chat through the console interfac
 - Define presence message
 - Send / receive files
 
-# Installation
+# Program Execution
 
-
-
-# Use
-
-
+Unzip the files
+Run the program with IDE NetBeans
 
 # References
 - GUIDE OF XMPP
@@ -38,6 +35,10 @@ https://pdfs.semanticscholar.org/776b/40aa28ca44b9c8d044e37d51405a6aee51f2.pdf
 https://www.baeldung.com/xmpp-smack-chat-client
 - XMPP WITH SMACK
 https://www.javacodegeeks.com/2010/09/xmpp-im-with-smack-for-java.html
+
+# Information to consider
+
+If you use another version of Smack, you must take into account that the class files change
 
 # Authors
 - Eunice - Data collection and conecction
