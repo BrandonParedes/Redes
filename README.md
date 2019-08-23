@@ -5,8 +5,9 @@ Project of systems engineering - Mariano Galvéz University of Guatemala
 The project consists of realizing a client for chat through the console interface (CLI) using the XMPP communication protocol
 
 Extensible Messaging and Presence Protocol, better known as XMPP (Extensible Messaging and Presence Communication Protocol), is an open and extensible XML-based protocol, originally devised for instant messaging.
-
 With the XMPP protocol, a platform for the exchange of XML data that can be used in instant messaging applications is established.
+
+For more information access the link: https://riptutorial.com/Download/xmpp.pdf
 
 # Built with
 
