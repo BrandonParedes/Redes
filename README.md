@@ -25,8 +25,8 @@ The project consists of realizing a client for chat through the console interfac
 
 # Program Execution
 
-Unzip the files
-Run the program with IDE NetBeans
+- Unzip the files
+- Run the program with IDE NetBeans
 
 # References
 - GUIDE OF XMPP
