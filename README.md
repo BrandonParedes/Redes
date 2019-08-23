@@ -4,6 +4,10 @@ Project of systems engineering - Mariano Galvéz University of Guatemala
 
 The project consists of realizing a client for chat through the console interface (CLI) using the XMPP communication protocol
 
+Extensible Messaging and Presence Protocol, better known as XMPP (Extensible Messaging and Presence Communication Protocol), is an open and extensible XML-based protocol, originally devised for instant messaging.
+
+With the XMPP protocol, a platform for the exchange of XML data that can be used in instant messaging applications is established.
+
 # Built with
 
 - NetBeans IDE 8.2 https://netbeans.org/downloads/8.2/
@@ -23,10 +27,10 @@ The project consists of realizing a client for chat through the console interfac
 - Define presence message
 - Send / receive files
 
-# Program Execution
+# Use
 
-- Unzip the files
-- Run the program with IDE NetBeans
+You need to install Netbeans version 8.2, download and unzip the files.
+Within the Netbeans IDE you must open the project and in the JAVA libraries you must add the Smack packages (Add JAR/Folder) to be able to interact with the program.
 
 # References
 - GUIDE OF XMPP
